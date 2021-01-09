@@ -1,0 +1,13 @@
+[1216/133053.608:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1217/033428.470:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1218/161405.176:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1219/025358.410:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1219/025358.629:ERROR:exception_snapshot_win.cc(99)] thread ID 9076 not found in process
+[1219/025358.426:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1219/025358.629:ERROR:exception_snapshot_win.cc(99)] thread ID 12012 not found in process
+[1225/000140.619:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1228/143309.253:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1229/230519.057:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\hp\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\e063f394-066f-48b8-b2b7-8b555dd58199: The system cannot find the path specified. (0x3)
+[1230/120836.165:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/041604.621:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/140016.998:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
